@@ -1,1 +1,15 @@
-klynt.miniPlayerData = {"downloadAppWording":"Download App","fullscreenInfoWording":"This program will launch in fullscreen","title":"Visioni Future","thanksForWatchingWording":"Thanks for watching!","description":"YouTube","resumePlaybackWording":"Resume playback?","redirectToMobileApp":"auto","yesWording":"Yes","url":"","noWording":"No","thumbnail":"Medias/Thumbnails/Facebook2.png.png","analyticsKey":"","launchAppWording":"Then Launch Project"}
+klynt.miniPlayerData = {
+    "thanksForWatchingWording": "Thanks for watching!",
+    "resumePlaybackWording": "Resume playback?",
+    "fullscreenInfoWording": "This program will launch in fullscreen",
+    "yesWording": "Yes",
+    "title": "Visioni Future - Facebook",
+    "thumbnail": "Player/css/editor/img/mini-player.jpg",
+    "noWording": "No",
+    "analyticsKey": "",
+    "redirectToMobileApp": "auto",
+    "downloadAppWording": "Download App",
+    "url": "",
+    "launchAppWording": "Then Launch Project",
+    "description": "YouTube"
+}
